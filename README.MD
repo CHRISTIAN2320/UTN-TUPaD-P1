@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Oliver, Christian Emmanuel  
+- **Nombre:** Olivero, Christian Emmanuel  
 - **Comisión:** M2025-4 
 
 ## 📂 Descripción del Repositorio  
